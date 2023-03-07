@@ -1,18 +1,5 @@
 
-  
-<br />
-  <h3 align="center">Template ASP.NET Core API</h3>
 
-  <p align="center">
-    API Rest created with ASP.NET Core using DDD
-    <br />
-   <a href="https://www.youtube.com/watch?v=KjPYYg3h53o">Video how to use</a> 
-    ·
-    <a href="https://github.com/MicaelaGuimaraes/TemplateApiNetCoreDDD/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/MicaelaGuimaraes/TemplateApiNetCoreDDD/issues">Request Feature</a>
-  </p>
-</p>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -65,9 +52,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-- [Site](micaelaguimaraes.com)
-- [Email](mailto:contato@micaelaguimaraes.com)
-- [Linkedin ](https://www.linkedin.com/in/micaela-guimaraes)
+
 
 
 
